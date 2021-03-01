@@ -1,7 +1,7 @@
 ﻿namespace Mediator
 {
     /// <summary>
-    /// The Colleague abstract class, representing an entity involved in the conversation which should receive messages.
+    /// The Component class, representing an entity involved in the conversation which should receive messages.
     /// </summary>
     public class SnackBar
     {
